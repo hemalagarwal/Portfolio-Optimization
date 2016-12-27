@@ -1,0 +1,2 @@
+# Portfolio-Optimization
+Built a portfolio optimization algorithm to maximize expected returns on a combination of stocks using live feeds and historical data from yahoo finance using regression models, matrix transformations and principal component analysis. Designed a model to predict the performance of the portfolio based on multiple factors such as market returns, volatility, GDP and inflation
